@@ -1,0 +1,9 @@
+{
+    "run_list": [
+        "build-essential",
+        "python",
+        "git",
+        "sqlite",
+        "memcached"
+    ]
+}
